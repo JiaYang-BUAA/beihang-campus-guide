@@ -5,7 +5,7 @@ export const sources=[
  {title:'2026级本研新生报到须知',publisher:'北京航空航天大学新闻网',date:'2026-08-25',url:'https://news.buaa.edu.cn/info/1002/69624.htm',use:'2026年校园交通图对照；其中迎新车辆路线仅适用于该活动。'},
  {title:'Campus Map · 杭州国际校园',publisher:'北航中法航空学院',date:'2023-10-18',url:'https://zfaien.buaa.edu.cn/Campus/Campus_Map.htm',use:'杭州建筑名称、分区、编号、相对位置及平面轮廓。'},
  {title:'沙河校区图书馆',publisher:'北京航空航天大学总务部',date:'2025-05-15',url:'https://zwb.buaa.edu.cn/info/1190/5115.htm',use:'核对图书馆外立面已建成、室内尚在收尾；公开高度32米、地上6层。模型仍按示意比例显示。'},
- {title:'Hangzhou International Innovation Institute',publisher:'HENN · 项目设计方',date:'项目年份2023',url:'https://www.henn.com/en/project/hangzhou-international-innovation-institute',use:'核对南北学术轴、东西景观轴和飞檐屋顶设计。设计方公布屋顶长395米、跨度168米；本版未重建屋顶曲面。'},
+ {title:'Hangzhou International Innovation Institute',publisher:'HENN · 项目设计方',date:'项目年份2023',url:'https://www.henn.com/en/project/hangzhou-international-innovation-institute',use:'核对南北学术轴、东西景观轴和飞檐屋顶设计。设计方公布屋顶长395米、跨度168米；屋顶总体曲面和中央透光带依设计方实景简化重建，曲率与标高未测绘。'},
  {title:'校园风采',publisher:'北航本科招生网',date:'页面未标注日期',url:'https://zs.buaa.edu.cn/xxzl/xyfc.htm',use:'学院路新主楼、主楼外观照片对照。'}
 ];
 export const campuses=[{
